@@ -1,9 +1,9 @@
 ---
 draft: false
 view: 2
-title: Climate scientist Samuel LeBlanc is working to reduce one of the biggest
-  uncertainties in measuring our atmosphere
-subtitle: ""
+title: Scientist Samuel LeBlanc measuring our atmosphere
+subtitle: Climate scientist Samuel LeBlanc is working to reduce one of the
+  biggest uncertainties in measuring our atmosphere
 date: 2020-10-05T22:47:53.842Z
 summary: >-
   Bay Area Environmental Research Institute posted a short article about Sam:
