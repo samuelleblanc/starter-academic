@@ -13,18 +13,29 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
+[[feature]]
+  icon = "cloud-sun"
+  icon_pack = "fas"
+  name = "Radiative Transfer"
+  description = "50%"
+  
+[[feature]]
+  icon = "plane"
+  icon_pack = "fas"
+  name = "Airborne Measurement"
+  description = "50%"
+  
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "75%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "25%"  
+   
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "25%"  
   
 [[feature]]
   icon = "camera-retro"
@@ -34,7 +45,7 @@ subtitle = ""
   
 [[feature]]
   icon = "canadian-maple-leaf"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Canadian"
   description = "100%"
 
