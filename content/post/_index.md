@@ -3,7 +3,7 @@ title: Climate scientist Samuel LeBlanc is working to reduce one of the biggest
   uncertainties in measuring our atmosphere
 view: 2
 header:
-  caption: ""
+  caption: "Blog post showcasing Samuel LeBlanc's work"
   image: ""
 date: 2020-10-05T22:47:53.842Z
 draft: false
