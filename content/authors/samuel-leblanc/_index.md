@@ -17,11 +17,11 @@ organizations:
     url: https://www.nasa.gov/centers/ames/earthscience
 email: samuel.elie.leblanc@gmail.com
 superuser: true
-
+avatar: face_only.jpg
 
 background:
   # Name of image in `static/media/`.
-  image: clouds.jpg
+  image: DSC_3877-HDR.jpg
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_darken: 0.1
   #  Options are `cover` (default), `contain`, or `actual` size.
