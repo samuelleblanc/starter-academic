@@ -6,6 +6,7 @@ bio: Atmospheric Scientist studying colors of clouds and aerosol to better
   measure and understand climate
 interests:
   - Atmosphere
+  - Hyperspectral remote sensing of clouds and aerosol
 social:
   - icon_pack: ai
     link: https://twitter.com/DrLeBlanc_NASA
