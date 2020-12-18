@@ -29,3 +29,9 @@ author: samuel-leblanc
   # image_position = "center"
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   text_color_light = true  # Text color (true=light or false=dark).
+
+# <span class="style-widget-title">Bio</span>
+
+Samuel LeBlanc spends alot of time measuring how aerosol and clouds interact with sunlight and how they affect current and future climate.
+
+My research is focused on cloud and aerosol remote sensing. I am interested in quantifying cloud and aerosol properties in areas difficult to sample from satellite to evaluate their radiative effect on climate and refine process understanding. In this context, I combine remote sensing products of clouds and aerosol from satellite, ground-based, and airborne measurements, while focusing on hyperspectral measurements of transmitted sunlight. I use observations and their interpretations, developed new measurement technologies, and implemented new retrieval methodologies to further the understanding of climate radiative effects. Linking technical aspects of instrument and technology development with remote sensing and process understanding is one of my strong interests. 
